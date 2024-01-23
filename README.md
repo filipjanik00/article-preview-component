@@ -17,13 +17,13 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ![](./screenshots/mobile-preview.png)
 ![](./screenshots/mobile-active.png)
-![](./screenshots/desktop-preview.png)
+![](./screenshots/dekstop-preview.png)
 ![](./screenshots/desktop-active.png)
 
 ### Links
 
-- Solution URL: [Frontend Mentor IO Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-4thGx7DsIJ)
-- Live Site URL: [Hosted on GitHub Pages](https://filipjanik00.github.io/stats-preview-card-component-main/)
+- Solution URL: [Frontend Mentor IO Solution](https://www.frontendmentor.io/solutions/article-preview-component-mPG9t2EFM9)
+- Live Site URL: [Hosted on GitHub Pages](https://filipjanik00.github.io/article-preview-component/)
 
 ## My process
 
